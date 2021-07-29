@@ -5,7 +5,7 @@
   <h3 align="center">React-Rails --> [Rails]</h3>
 
   <p align="center">
-This is prepared Rails Found and Seek assinment back-end repo
+This is prepared Rails Found and Seek assignment back-end repo. 
   </p>
 </p
 

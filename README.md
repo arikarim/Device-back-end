@@ -11,7 +11,7 @@ This is prepared Rails Found and Seek assinment back-end repo
 
 ## Screenshots of the app.
 
-![image](./app/images/.s.png)
+![image](./app/images/s.png)
 
 ## Built With
 

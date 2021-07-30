@@ -31,6 +31,8 @@ In order to use this project all you have to to is follow these simple steps :
 
 - Clone the Rails repo and cd inside the project.
 
+- rails s -p 3001
+
 - Run `Rake secret` and keep hold it for the next step.
 
 - Create a `.env` file in the root of the project and inside it put this `DEVISE_JWT_SECRET_KEY = < your secret key from previuos step >`
